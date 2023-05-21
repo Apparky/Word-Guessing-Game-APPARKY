@@ -15,5 +15,5 @@
 > To know more about [__APPARKY__](https://apparky.vercel.app/) Click [Here](https://apparky-soumenmtec-gmailcom.vercel.app/)
 >
 >
-> > You can also mail us at [__apparky@protonmail.com__](apparky@protonmail.com) 
+> > You can also mail us at __apparky@protonmail.com__
 
